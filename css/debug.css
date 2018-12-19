@@ -1,0 +1,31 @@
+body {
+	background-color: #add8e6;
+}
+
+h1, h2, p {
+	color: #00008b;
+	font-weight: 500;
+}
+
+iframe {
+	width:560px;
+	height: 315px;
+	border: 0px;
+	display: block;
+}
+
+.bold_font {
+	font-weight: bold;
+}
+
+.logo {
+	border: 2px dashed #f00;
+	height: 300px;
+	width: 600px;
+}
+
+.centered {
+	width: 100%;
+	text-align: center;
+}
+
